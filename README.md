@@ -1,7 +1,7 @@
 # Hi there 👋
-# I'm Isaac - a maths teacher hoping to transition into software development
 
-## On a journey to Software Development...🚅🚅🚅
+# I'm Isaac - a maths teacher on a journey to Software Development...🚅🚅🚅
+
 - 🔭 I’m currently working as an Numeracy Lecturer for post 16s with Islington Adult and Community Learning
 - 🌱 I’m currently learning Web Development frontend and backend with Founders and Coders
 - 👯 I’m looking to collaborate on building web development projects that will progress my skills and aid my carrertransition
